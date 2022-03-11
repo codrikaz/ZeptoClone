@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ZeptoClone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#E857011F</item>
+        <item name="colorPrimaryVariant">#E857011F</item>
+        <item name="colorOnPrimary">#E857011F</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E857011F</item>
+        <item name="colorSecondaryVariant">#E857011F</item>
+        <item name="colorOnSecondary">#E857011F</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zepto Clone</string>
+    <string name="location">Location Fetching...</string>
+    <string name="topCard">Deleivery to you in 10 Minutes</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splace">splace_activity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
